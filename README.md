@@ -1,6 +1,6 @@
 ## Hello friend. 🚀
 
-I am Albina, a 17 year old tech freak since the age of 12. Here an overview of what you'll find on my GitHub
+I am Albina, a 17 year old tech freak. Below is an overview of what you'll find on my GitHub
 
 ### 🤓 Current plans and projects I am working on:
 - Homeworkit (a side project to make evaluations and homeworks easier for online schools)
