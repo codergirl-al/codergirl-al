@@ -11,6 +11,7 @@ I am Albina, a 17 year old dev. I have been a technology freak since I was 12 an
 - MERN Stack (To make web development sound fun)
 - Amazon Web Services (Lambda, S3, Cognito, CloudFront, API Gateway)
 - CSS and HTML (for engineering purposes)
+- JavaScript
 - Wordpress (because I'm good at web development)
 
 ### 🦾 Documenting my journey:
