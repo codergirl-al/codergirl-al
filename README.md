@@ -21,7 +21,7 @@ I am Albina, a 17 year old tech freak since the age of 12. Here an overview of w
 ### ✨ Hobbies
 - 🏃‍♀️ Running
 - 📚 Reading books
-- 🌎 Learning foreign languages
+- 🌎 Learning foreign languages (English, German, French, Albanian)
 
 <!--
 **codergirl-al/codergirl-al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
