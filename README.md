@@ -1,6 +1,6 @@
 ## Hello friend. 🚀
 
-I am Albina, a 17 year old dev. I have been a technology freak since I was 12 and I try to sometimes share stuff on GitHub
+I am Albina, a 17 year old tech freak since the age of 12. Here an overview of what you'll find on my GitHub
 
 ### 🤓 Current plans and projects I am working on:
 - Homeworkit (a side project to make evaluations and homeworks easier for online schools)
@@ -12,7 +12,6 @@ I am Albina, a 17 year old dev. I have been a technology freak since I was 12 an
 - Amazon Web Services (Lambda, S3, Cognito, CloudFront, API Gateway)
 - CSS and HTML (for engineering purposes)
 - JavaScript
-- Wordpress (because I'm good at web development)
 
 ### 🦾 Documenting my journey:
 - <a href="https://www.linkedin.com/in/albina-peposhi-a458021a7/">LinkedIn</a>
@@ -23,8 +22,6 @@ I am Albina, a 17 year old dev. I have been a technology freak since I was 12 an
 - 🏃‍♀️ Running
 - 📚 Reading books
 - 🌎 Learning foreign languages
-- 🌱 Healthy lifestyle
-
 
 <!--
 **codergirl-al/codergirl-al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
