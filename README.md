@@ -19,7 +19,7 @@ I am Albina, a 17 year old tech freak. Below is an overview of what you'll find 
 - <a href="https://www.instagram.com/codergirl_al">Instagram</a>
 - <a href="https://github.com/codergirl-al">GitHub</a>
 - <a href="https://codergirl-al.medium.com/">Medium</a>
-- <a hrefr="https://dev.to/codergirl_al">DEV.to</a>
+- <a href="https://dev.to/codergirl_al">DEV.to</a>
 
 ### ✨ Hobbies
 - 🏃‍♀️ Running
