@@ -3,6 +3,7 @@
 I am Albina, a 17 year old tech freak. Below is an overview of what you'll find on my GitHub
 
 ### 🤓 Current plans and projects I am working on:
+- AWS & ML Foundations Training :)
 - Homeworkit (a side project to make evaluations and homeworks easier for online schools)
 - C/C++ Competitive Programming Exercises (sharing different algorithms and CP challenges)
 
@@ -17,6 +18,8 @@ I am Albina, a 17 year old tech freak. Below is an overview of what you'll find 
 - <a href="https://www.linkedin.com/in/albina-peposhi-a458021a7/">LinkedIn</a>
 - <a href="https://www.instagram.com/codergirl_al">Instagram</a>
 - <a href="https://github.com/codergirl-al">GitHub</a>
+- <a href="https://codergirl-al.medium.com/">Medium</a>
+- <a hrefr="https://dev.to/codergirl_al">DEV.to</a>
 
 ### ✨ Hobbies
 - 🏃‍♀️ Running
