@@ -20,6 +20,7 @@ I am Albina, a 17 year old tech freak. Below is an overview of what you'll find 
 - <a href="https://github.com/codergirl-al">GitHub</a>
 - <a href="https://codergirl-al.medium.com/">Medium</a>
 - <a href="https://dev.to/codergirl_al">DEV.to</a>
+- <a href="https://www.goodreads.com/user/show/118655646-albina-peposhi">GoodReads</a>
 
 ### ✨ Hobbies
 - 🏃‍♀️ Running
