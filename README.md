@@ -28,7 +28,7 @@ I am Albina, a 17 year old tech freak. Below is an overview of what you'll find 
 - 🌎 Learning foreign languages (English, German, French, Albanian)
 
 ### Stats
-[![Albina's github streak](https://github-readme-streak-stats.herokuapp.com/?user=codergirl-al&theme=tokyonight)](https://github.com/juliotati/github-readme-streak-stats)
+[![Albina's github streak](https://github-readme-streak-stats.herokuapp.com/?user=codergirl-al&theme=tokyonight)](https://github.com/codergirl-al/github-readme-streak-stats)
 [![Albina's stats](https://github-readme-stats.vercel.app/api?username=codergirl-al&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/codergirl-al/github-readme-stats)
 
 ### Languages && Dev Card
