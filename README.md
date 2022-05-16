@@ -3,16 +3,16 @@
 I am Albina, an 18 year old tech freak. Below is an overview of what you'll find on my GitHub
 
 ### 🤓 Current plans and projects I am working on:
-- AWS & ML Foundations Training :)
-- Homeworkit (a side project to make evaluations and homeworks easier for online schools)
-- C/C++ Competitive Programming Exercises (sharing different algorithms and CP challenges)
+- Blockchain Development (Solidity, Smart Contracts, Ethereum)
+- Web Development and e-commerce projects (freelancing)
+- Arduino and IoT Devices (on my free time)
 
 ### 🛠 Programming languages and technologies I play around with:
 - C / C++ (Mainly for Competitive Programming)
-- MERN Stack (To make web development sound fun)
+- JavaScript and MERN Stack (To make web development sound fun)
 - Amazon Web Services (Lambda, S3, Cognito, CloudFront, API Gateway)
 - CSS and HTML (for engineering purposes)
-- JavaScript
+- Solidity, Smart Contracts
 
 ### 🦾 Documenting my journey:
 - <a href="https://www.linkedin.com/in/albina-peposhi-a458021a7/">LinkedIn</a>
