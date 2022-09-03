@@ -8,11 +8,8 @@ I am Albina, an 18 year old tech freak. Below is an overview of what you'll find
 - Arduino and IoT Devices (on my free time)
 
 ### 🛠 Programming languages and technologies I play around with:
-- C / C++ (Mainly for Competitive Programming)
-- JavaScript and MERN Stack (To make web development sound fun)
-- Amazon Web Services (Lambda, S3, Cognito, CloudFront, API Gateway)
-- CSS and HTML (for engineering purposes)
-- Solidity, Smart Contracts
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=droniu&theme=radical)
+
 
 ### 🦾 Documenting my journey:
 - <a href="https://www.linkedin.com/in/albina-peposhi-a458021a7/">LinkedIn</a>
