@@ -8,7 +8,7 @@ I am Albina, an 18 year old tech freak. Below is an overview of what you'll find
 - Arduino and IoT Devices (on my free time)
 
 ### 🛠 Programming languages and technologies I play around with:
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=droniu&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codergirl-al&theme=tokyonight)
 
 
 ### 🦾 Documenting my journey:
