@@ -29,7 +29,6 @@ I am Albina, an 18 year old tech freak. Below is an overview of what you'll find
 
 ### Languages && Dev Card
 <a href="https://app.daily.dev/codergirl_al"><img src="https://github.com/codergirl-al/codergirl-al/blob/main/devcard.svg" width="300" alt="Albina Peposhi's Dev Card"/></a>
-[![Albina's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codergirl-al)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
