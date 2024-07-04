@@ -1,7 +1,5 @@
 ## Hello friend. 🚀
 
-I am Albina, a 19 year old tech freak. Below is an overview of what you'll find on my GitHub
-
 ### 🤓 Current plans and projects I am working on:
 - Blockchain Development (Solidity, Smart Contracts, Ethereum)
 - Web Development and e-commerce projects (freelancing)
