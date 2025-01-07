@@ -1,9 +1,12 @@
 ## Hello friend. 🚀
 
+Welcome to my GitHub profile. 
+
 ### 🤓 Current plans and projects I am working on:
-- Blockchain Development (Solidity, Smart Contracts, Ethereum)
-- Web Development and e-commerce projects (freelancing)
-- Arduino and IoT Devices (on my free time)
+- Studying Software Engineering and Data Science
+- Building cool projects mainly in C/C++ and Python
+- Working in Project Management with a love for the technical side
+
 
 ### 🛠 Programming languages and technologies I play around with:
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codergirl-al&theme=tokyonight)
@@ -13,8 +16,7 @@
 - <a href="https://www.linkedin.com/in/albina-peposhi-a458021a7/">LinkedIn</a>
 - <a href="https://www.instagram.com/codergirl_al">Instagram</a>
 - <a href="https://github.com/codergirl-al">GitHub</a>
-- <a href="https://codergirl-al.medium.com/">Medium</a>
-- <a href="https://dev.to/codergirl_al">DEV.to</a>
+- <a href="https://codergirl-al.com">Website</a>
 - <a href="https://www.goodreads.com/user/show/118655646-albina-peposhi">GoodReads</a>
 
 
@@ -31,9 +33,9 @@
 </div>
 
 ### ✨ Hobbies
-- 🏃‍♀️ Running
-- 📚 Reading books
-- 🌎 Learning foreign languages (English, German, French, Albanian)
+- 📚 Reading leadership and self-development related books 🌱
+- 🚀 Investing, blockchain or management: always up for a chat!
+- 🌎 Learning foreign languages and travelling.
 
 ### Stats
 ![Albina's GitHub stats](https://github-readme-stats.vercel.app/api?username=codergirl-al&count_private=true&show_icons=true&theme=tokyonight)
