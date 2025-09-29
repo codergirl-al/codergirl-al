@@ -3,7 +3,8 @@
 Welcome to my GitHub profile. 
 
 ### 🤓 Current plans and projects I am working on:
-- Studying Software Engineering and Data Science
+- Management and Data Science @ Technical University Munich
+- AI Mastery @42 Heilbronn
 - Building cool projects mainly in C/C++ and Python
 - Working in Project Management with a love for the technical side
 
@@ -14,7 +15,6 @@ Welcome to my GitHub profile.
 
 ### 🦾 Documenting my journey:
 - <a href="https://www.linkedin.com/in/albina-peposhi-a458021a7/">LinkedIn</a>
-- <a href="https://www.instagram.com/codergirl_al">Instagram</a>
 - <a href="https://github.com/codergirl-al">GitHub</a>
 - <a href="https://codergirl-al.com">Website</a>
 - <a href="https://www.goodreads.com/user/show/118655646-albina-peposhi">GoodReads</a>
@@ -29,7 +29,6 @@ Welcome to my GitHub profile.
 	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>&nbsp;
-
 </div>
 
 ### ✨ Hobbies
@@ -39,10 +38,6 @@ Welcome to my GitHub profile.
 
 ### Stats
 ![Albina's GitHub stats](https://github-readme-stats.vercel.app/api?username=codergirl-al&count_private=true&show_icons=true&theme=tokyonight)
-
-### Languages && Dev Card
-<a href="https://app.daily.dev/codergirl_al"><img src="https://github.com/codergirl-al/codergirl-al/blob/main/devcard.svg" width="300" alt="Albina Peposhi's Dev Card"/></a>
-
 
 ### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
 ![Contribution grid snake animation](https://raw.githubusercontent.com/codergirl-al/codergirl-al/output/github-contribution-grid-snake.svg)
