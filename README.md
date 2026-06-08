@@ -6,7 +6,6 @@ Welcome to my GitHub profile.
 - Management and Data Science @ Technical University Munich
 - AI Mastery @42 Heilbronn
 - Building cool projects mainly in C/C++ and Python
-- Working in Project Management with a love for the technical side
 
 
 ### 🛠 Programming languages and technologies I play around with:
